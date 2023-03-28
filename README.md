@@ -9,7 +9,7 @@ It is a basic application to test my JavaScript skills with html and css.
 
 ## Demo
 
-You can try out the Drum-Kit application live at [[Drum-Kit](https://adtya-01.github.io/TinDog/)]
+You can try out the Drum-Kit application live at [[Drum-Kit](https://adtya-01.github.io/Drum-Kit/)]
 
 
 ## Getting Started
