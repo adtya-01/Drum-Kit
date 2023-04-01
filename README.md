@@ -4,7 +4,7 @@ Drum-Kit
 
 ## Description
 
-It is a basic application to test my JavaScript skills with html and css.
+It is a basic application to test my JavaScript skills with HTML and CSS.
 
 
 ## Demo
