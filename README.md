@@ -22,7 +22,7 @@ To use Drum-Kit on your local machine, simply clone the repository and open the 
 ```bash
   git clone https://github.com/adtya-01/Drum-Kit.git
 ```
-  - Open index.html in your web browser
+  - Open index.html in your web browser.
   - Start browsing and connecting with other dog owners!
 
 ## Contribution
